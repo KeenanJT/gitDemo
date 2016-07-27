@@ -22,6 +22,7 @@
 		4AA286B41D48E3510008BD4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AA286B71D48E3510008BD4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4AA286B91D48E3510008BD4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AA286BF1D48E3730008BD4D /* GitforiOS Notes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "GitforiOS Notes.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				4AA286AD1D48E3510008BD4D /* AppDelegate.swift */,
 				4AA286AF1D48E3510008BD4D /* ViewController.swift */,
 				4AA286B11D48E3510008BD4D /* Main.storyboard */,
+				4AA286BF1D48E3730008BD4D /* GitforiOS Notes.playground */,
 				4AA286B41D48E3510008BD4D /* Assets.xcassets */,
 				4AA286B61D48E3510008BD4D /* LaunchScreen.storyboard */,
 				4AA286B91D48E3510008BD4D /* Info.plist */,
